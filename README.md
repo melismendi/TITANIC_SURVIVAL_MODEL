@@ -14,6 +14,7 @@
 ##### Fare: Bilet ücreti.
 ##### Cabin: Kabin numarası.
 
+##### KAYNAK: Data Science and Machine Learning Boot Camp, 2021, Veri Bilimi Okulu (https://www.veribilimiokulu.com/)
 
 
 
