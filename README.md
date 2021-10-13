@@ -2,7 +2,7 @@
 
 ##### Model kurmadan önce Veri Ön İşleme ve Değişken Mühendisliği işlemleri yaparız. Dağınık veriyi düzenlemeliyiz ki kurduğumuz model performanslı çalışsın. Verilerimizin algoritmaların istediği matematiksel forma dönüştürmeliyiz ve modelden daha doğru sonuçlar alabilmek için değişkenler üretmemiz gerekir.
 
-##### # İş Problemi:Özellikleri verildiğinde insanların hayatta kalmasını tahmin edebilir misiniz?
+##### - İş Problemi:Özellikleri verildiğinde insanların hayatta kalmasını tahmin edebilir misiniz?
 ##### Veri setinin değişkenlerine bakalım.
 ##### "Survived" değişkeni bağımlı değişken (target) olacak. 1:Kişinin hayatta kalmasını, 0 ise hayatını kaybetmesini temsil etmektedir.
 ##### Pclass: Bilet sınıfı. (1.sınıf yolcu,2.sınıf yolcu gibi)
